@@ -42,7 +42,7 @@ export function Footer() {
             <ul className="space-y-4 text-sm text-slate-400">
               <li>Dubai, UAE</li>
               <li>Global Operations</li>
-              <li><a href="mailto:abdul.mannan.17@gmail.com" className="hover:text-white transition-colors">abdul.mannan.17@gmail.com</a></li>
+
             </ul>
           </div>
         </div>
