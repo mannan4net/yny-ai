@@ -59,12 +59,6 @@ export default function Contact() {
                 <p className="text-xl font-medium text-primary">Global / Dubai</p>
               </div>
               
-              <div>
-                <h3 className="text-sm font-bold uppercase tracking-wider text-muted-foreground mb-4">Email Inquiry</h3>
-                <a href="mailto:abdul.mannan.17@gmail.com" className="text-xl font-medium text-primary hover:underline transition-all">
-                  abdul.mannan.17@gmail.com
-                </a>
-              </div>
               
               <div className="pt-12 border-t border-border">
                 <p className="text-muted-foreground">
