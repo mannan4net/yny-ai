@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "Elvh0yyMnjekSeS9bPw8n"
+uri = "file://yny-website-source.tar.gz"
+type = "unspecified"
+title = "YnY Platforms Website — Source Code"
