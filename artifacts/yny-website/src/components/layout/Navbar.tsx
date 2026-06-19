@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "wouter";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import logoSrc from "@assets/IntegratedYnYIcon_1781898348747.jpeg";
 
 export function Navbar() {
   const [location] = useLocation();
@@ -34,9 +35,11 @@ export function Navbar() {
       <div className="container mx-auto px-6 h-20 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-3 group">
-          <div className="w-10 h-10 bg-primary flex items-center justify-center rounded-sm transition-transform group-hover:scale-105">
-            <span className="text-white font-bold text-lg">Y</span>
-          </div>
+          <img
+            src={logoSrc}
+            alt="YnY Platforms"
+            className="h-10 w-10 object-contain transition-transform group-hover:scale-105"
+          />
           <span className="text-2xl font-bold tracking-tight text-primary">YnY</span>
         </Link>
 
