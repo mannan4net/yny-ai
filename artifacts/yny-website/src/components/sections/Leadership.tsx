@@ -14,19 +14,19 @@ export function Leadership() {
           {teamData.map((member, index) => (
             <motion.div
               key={index}
-              className="bg-white p-8 border border-border"
+              className="bg-white p-8 border border-border border-t-4 border-t-primary shadow-sm"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: index * 0.1 }}
             >
-              <div className="flex items-center gap-4 mb-6">
-                <div className="w-14 h-14 bg-primary text-white flex items-center justify-center text-xl font-bold shrink-0">
+              <div className="flex items-center gap-5 mb-6">
+                <div className="w-16 h-16 bg-primary text-white flex items-center justify-center text-2xl font-bold shrink-0 shadow-inner">
                   {member.initials}
                 </div>
                 <div>
                   <h3 className="text-lg font-bold text-primary">{member.name}</h3>
-                  <p className="text-sm font-medium text-accent">{member.title}</p>
+                  <p className="text-base font-semibold text-accent">{member.title}</p>
                 </div>
               </div>
               <p className="text-sm text-muted-foreground leading-relaxed">

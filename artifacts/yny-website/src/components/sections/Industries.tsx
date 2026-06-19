@@ -14,7 +14,7 @@ export function Industries() {
           {industriesData.map((industry, index) => (
             <motion.div
               key={index}
-              className="bg-white p-8 border border-border hover:border-primary transition-colors"
+              className="bg-white p-10 border border-border hover:border-primary hover:shadow-md transition-all duration-300 flex flex-col"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
@@ -22,19 +22,19 @@ export function Industries() {
             >
               <h3 className="text-xl font-bold text-primary mb-6">{industry.name}</h3>
               
-              <div className="space-y-4">
-                <div>
+              <div className="space-y-6 flex-grow">
+                <div className="pl-4 border-l-4 border-primary">
                   <h4 className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-1">Challenges</h4>
-                  <p className="text-sm text-primary">{industry.challenges}</p>
+                  <p className="text-sm text-primary leading-relaxed">{industry.challenges}</p>
                 </div>
                 <div>
                   <h4 className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-1">Solutions</h4>
-                  <p className="text-sm text-primary">{industry.solutions}</p>
+                  <p className="text-sm text-primary leading-relaxed">{industry.solutions}</p>
                 </div>
-                <div className="pt-2 border-t border-border">
-                  <h4 className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-1">Business Value</h4>
-                  <p className="text-sm font-medium text-success">{industry.value}</p>
-                </div>
+              </div>
+              <div className="pt-4 border-t border-border mt-6">
+                <h4 className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-1">Business Value</h4>
+                <p className="text-sm font-medium text-[hsl(var(--success))] leading-relaxed">{industry.value}</p>
               </div>
             </motion.div>
           ))}
