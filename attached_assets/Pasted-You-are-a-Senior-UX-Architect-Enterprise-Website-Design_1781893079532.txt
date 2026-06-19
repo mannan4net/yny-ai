@@ -1,0 +1,404 @@
+You are a Senior UX Architect, Enterprise Website Designer, React Architect, and Brand Strategist.
+
+I have an existing React website component named `yny-website.jsx`.
+
+Analyze the existing implementation completely before making any changes.
+
+Do NOT create a new website from scratch.
+
+Refactor and redesign the existing website into a modern, premium, enterprise-grade corporate website suitable for a technology consulting and AI product company.
+
+Company Name:
+YnY Platforms
+
+Business Model:
+Hybrid Company
+
+1. Enterprise Architecture & Consulting
+2. AI Platforms & Products
+3. Engineering Excellence & Product Development
+
+Target Audience:
+
+* Enterprise CTOs
+* CIOs
+* Government Organizations
+* Digital Transformation Leaders
+* Product Companies
+* Startups Scaling to Enterprise
+* Legal Firms
+* Healthcare Organizations
+* Financial Institutions
+
+Design Requirements
+
+Create a premium enterprise website comparable to:
+
+* Accenture
+* Deloitte Digital
+* ThoughtWorks
+* McKinsey Digital
+* TCS Interactive
+* Cognizant
+* Publicis Sapient
+
+The website must feel:
+
+* Premium
+* Executive
+* Modern
+* Trustworthy
+* Enterprise-focused
+* Minimalistic
+* Highly polished
+
+Avoid:
+
+* Startup-style bright colors
+* Cartoon graphics
+* Excessive animations
+* Gradient overload
+* Cheap-looking cards
+* Amateur layouts
+
+Color System
+
+Use only professional English corporate color combinations.
+
+Primary:
+#0F172A (Deep Navy)
+
+Secondary:
+#1E293B (Slate)
+
+Accent:
+#334155
+
+Highlight:
+#64748B
+
+Background:
+#FFFFFF
+
+Alternate Background:
+#F8FAFC
+
+Borders:
+#E2E8F0
+
+Text Primary:
+#0F172A
+
+Text Secondary:
+#475569
+
+Success:
+#0F766E
+
+Do NOT introduce random colors.
+
+Typography
+
+Use:
+
+Headings:
+Inter
+
+Body:
+Inter
+
+Requirements:
+
+* Sharp typography
+* Large spacing
+* Enterprise readability
+* Excellent hierarchy
+* Professional weight distribution
+
+Website Structure
+
+HOME
+
+Section 1 – Hero
+
+Headline:
+
+Building Enterprise-Scale Digital Platforms, AI Solutions & Engineering Excellence
+
+Subheadline:
+
+YnY Platforms helps organizations modernize technology, accelerate innovation, and build scalable digital products through enterprise architecture, artificial intelligence, and engineering excellence.
+
+Primary CTA:
+Schedule Consultation
+
+Secondary CTA:
+Explore Products
+
+Section 2 – Trust Indicators
+
+Display:
+
+20+ Years Experience
+
+Enterprise Architecture Leadership
+
+AI & Knowledge Platforms
+
+National Scale Digital Programs
+
+Cloud & Modernization Expertise
+
+Section 3 – What We Do
+
+Three large service pillars:
+
+Enterprise Architecture
+
+Technology strategy, modernization, governance, cloud transformation, solution architecture.
+
+AI & Data Platforms
+
+Enterprise AI, knowledge systems, semantic search, intelligent automation, RAG solutions.
+
+Product Engineering
+
+Platform engineering, DevOps, SDLC acceleration, quality engineering, digital product delivery.
+
+Section 4 – Featured Products
+
+Product 1:
+PAAI
+
+Enterprise AI platform for organizational knowledge intelligence, retrieval, and secure AI-powered decision support.
+
+Product 2:
+LegalPA
+
+AI-powered legal intelligence platform designed to simplify legal research, compliance, legislation discovery, and case analysis.
+
+Product 3:
+AIUniverse
+
+AI intelligence platform delivering curated research, emerging technology trends, market insights, and innovation tracking.
+
+Product 4:
+SDLC Factory
+
+AI-driven software delivery platform that transforms requirements into architecture, workflows, engineering assets, and delivery artifacts.
+
+Each product should include:
+
+* Business Problem
+* Solution
+* Key Benefits
+* CTA
+
+Section 5 – Why YnY
+
+Headline:
+
+Why Organizations Choose YnY
+
+Content:
+
+Organizations choose YnY because we combine enterprise architecture discipline with product innovation and AI expertise.
+
+Key points:
+
+* Architecture-led thinking
+* Enterprise scalability
+* AI-first innovation
+* Proven delivery practices
+* Business-driven outcomes
+
+Section 6 – Industries
+
+Healthcare
+
+Government
+
+Legal
+
+Banking & FinTech
+
+Education
+
+Technology
+
+Each industry card should explain:
+
+Challenges
+Solutions
+Business value
+
+Section 7 – Engagement Models
+
+Strategic Advisory
+
+Architecture Review
+
+Digital Transformation
+
+Dedicated Engineering Teams
+
+Product Development
+
+Section 8 – Leadership
+
+Abdul Mannan
+
+Chief Architect
+
+20+ years of experience across enterprise architecture, cloud modernization, AI systems, platform engineering, healthcare transformation, and large-scale government programs.
+
+Other leadership members should have professional executive profiles.
+
+Section 9 – Call To Action
+
+Let's Build What's Next
+
+Schedule Consultation
+
+ABOUT PAGE
+
+Create complete sections:
+
+Our Story
+
+Mission
+
+Vision
+
+Leadership
+
+Core Values
+
+Technology Expertise
+
+Delivery Philosophy
+
+SERVICES PAGE
+
+Enterprise Architecture
+
+Cloud Modernization
+
+AI Consulting
+
+Knowledge Platforms
+
+Digital Engineering
+
+Platform Engineering
+
+DevOps
+
+Data & Analytics
+
+PRODUCTS PAGE
+
+Create premium product showcase layouts.
+
+Each product should have:
+
+Overview
+
+Business Problem
+
+Solution
+
+Capabilities
+
+Benefits
+
+Target Customers
+
+Request Demo CTA
+
+INSIGHTS PAGE
+
+Create a thought leadership page.
+
+Categories:
+
+Enterprise Architecture
+
+Artificial Intelligence
+
+Cloud Engineering
+
+Digital Transformation
+
+Product Engineering
+
+Software Delivery Excellence
+
+CONTACT PAGE
+
+Create enterprise inquiry form.
+
+Inquiry Type:
+
+Consulting
+
+Product Demo
+
+Partnership
+
+Career
+
+General Inquiry
+
+Include:
+
+Email
+
+Phone
+
+Location
+
+Consultation Request Form
+
+Technical Requirements
+
+* Fully responsive
+* Mobile-first
+* Tablet optimized
+* Desktop optimized
+* Accessibility compliant
+* Clean React architecture
+* Componentized structure
+* Reusable UI sections
+* Proper spacing system
+* Consistent design tokens
+
+UI/UX Requirements
+
+* Sticky navigation
+* Mega-menu capable structure
+* Smooth scrolling
+* Professional hover states
+* Elegant section transitions
+* Premium cards
+* Executive-style layouts
+* High conversion CTAs
+* Modern enterprise visual hierarchy
+
+Code Quality
+
+* Production-ready React
+* Maintainable structure
+* No inline styling
+* Use CSS modules or Tailwind
+* Clean component separation
+* SEO-ready structure
+* Performance optimized
+
+Before generating code:
+
+1. Review the existing file completely.
+2. Identify weaknesses.
+3. Preserve business information.
+4. Redesign information architecture.
+5. Then generate the improved implementation.
