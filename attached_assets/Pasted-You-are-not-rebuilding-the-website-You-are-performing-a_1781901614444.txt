@@ -1,0 +1,483 @@
+You are not rebuilding the website.
+
+You are performing a premium enterprise redesign of the existing implementation.
+
+IMPORTANT:
+
+Analyze the entire current codebase before making any changes.
+
+Do NOT replace the architecture.
+
+Do NOT remove existing pages.
+
+Do NOT simplify content.
+
+The routing structure, component structure, and responsiveness foundation are already acceptable.
+
+Your goal is to transform the website from a generic consulting template into an executive-grade enterprise technology brand.
+
+Current assessment:
+
+The website feels like a template.
+
+It does not communicate the credibility, experience, or enterprise-scale expertise of YnY Platforms.
+
+The website must position YnY as:
+
+* Enterprise Architecture Leader
+* AI Platform Innovator
+* Product Engineering Organization
+* Strategic Technology Partner
+
+The website should feel closer to:
+
+* McKinsey Digital
+* Deloitte
+* Accenture
+* ThoughtWorks
+* Publicis Sapient
+
+while maintaining its own identity.
+
+==================================================
+PHASE 1
+REPOSITION THE BRAND
+====================
+
+The website currently talks about services.
+
+Instead it must communicate authority.
+
+Every page should answer:
+
+Why should an enterprise trust YnY?
+
+Introduce stronger positioning.
+
+Key themes:
+
+Enterprise Architecture
+
+AI Innovation
+
+Digital Transformation
+
+Engineering Excellence
+
+Platform Thinking
+
+Business Outcomes
+
+==================================================
+PHASE 2
+CREATE A PREMIUM HOME PAGE
+==========================
+
+REDESIGN THE HOME PAGE SECTIONS
+
+SECTION 1
+
+Hero
+
+Headline:
+
+Building Intelligent Enterprise Platforms for the AI Era
+
+Subheadline:
+
+YnY Platforms combines enterprise architecture, artificial intelligence, and engineering excellence to help organizations modernize systems, accelerate innovation, and build scalable digital products.
+
+Primary CTA:
+
+Schedule Consultation
+
+Secondary CTA:
+
+Explore Products
+
+Add subtle enterprise visual elements.
+
+No stock photos.
+
+No cartoon illustrations.
+
+Use abstract architectural patterns.
+
+==================================================
+
+SECTION 2
+
+Experience & Credibility
+
+Create a premium statistics band.
+
+Display:
+
+20+ Years Industry Experience
+
+Enterprise Architecture Leadership
+
+National Scale Transformation Programs
+
+AI & Knowledge Platform Expertise
+
+Cloud & Modernization Excellence
+
+Use large typography.
+
+Premium card design.
+
+==================================================
+
+SECTION 3
+
+Who We Are
+
+Add new section.
+
+Content:
+
+YnY Platforms was founded on a simple belief:
+
+Technology initiatives succeed when architecture, engineering, and business strategy work together.
+
+Our team brings decades of experience designing enterprise systems, digital platforms, cloud transformations, and AI-powered solutions across highly regulated industries.
+
+==================================================
+
+SECTION 4
+
+What We Do
+
+Three large pillars.
+
+Enterprise Architecture
+
+Technology strategy, modernization, governance, solution architecture, cloud transformation.
+
+AI Platforms & Knowledge Systems
+
+Enterprise AI, semantic search, intelligent automation, knowledge retrieval, AI assistants.
+
+Engineering Excellence
+
+Platform engineering, DevOps, SDLC acceleration, quality engineering, digital product delivery.
+
+Each pillar must have:
+
+Icon
+
+Description
+
+Business value
+
+==================================================
+
+SECTION 5
+
+Featured Products
+
+Completely redesign product cards.
+
+For each product:
+
+Product Category
+
+Problem Solved
+
+Business Outcome
+
+Key Capabilities
+
+Call To Action
+
+Products:
+
+PAAI
+
+LegalPA
+
+AIUniverse
+
+SDLC Factory
+
+Make this section visually premium.
+
+==================================================
+
+SECTION 6
+
+Why Organizations Choose YnY
+
+This section is currently too weak.
+
+Replace with:
+
+Architecture-First Approach
+
+Enterprise-Proven Thinking
+
+AI-Native Innovation
+
+Business-Driven Delivery
+
+Scalable Engineering Practices
+
+Each item should have detailed content.
+
+==================================================
+
+SECTION 7
+
+Industries We Serve
+
+Healthcare
+
+Government
+
+Legal
+
+Banking & FinTech
+
+Education
+
+Technology
+
+Each industry should contain:
+
+Challenges
+
+How YnY helps
+
+Business value delivered
+
+==================================================
+
+SECTION 8
+
+Engagement Models
+
+Strategic Advisory
+
+Architecture Assessment
+
+Digital Transformation
+
+Dedicated Engineering Teams
+
+Product Development
+
+AI Modernization Programs
+
+==================================================
+
+SECTION 9
+
+Leadership
+
+Create a professional executive leadership section.
+
+Abdul Mannan
+
+Chief Architect
+
+Content:
+
+Enterprise Architect with more than 20 years of experience delivering enterprise platforms, cloud modernization programs, digital transformation initiatives, healthcare systems, AI solutions, and engineering excellence programs.
+
+Other leaders should have executive-quality biographies.
+
+==================================================
+
+SECTION 10
+
+Final Enterprise CTA
+
+Headline:
+
+Let's Build What's Next
+
+Content:
+
+Whether you're modernizing legacy systems, adopting AI, launching digital products, or scaling enterprise platforms, YnY can help accelerate your journey.
+
+CTA:
+
+Schedule Consultation
+
+==================================================
+PHASE 3
+ABOUT PAGE
+==========
+
+Expand significantly.
+
+Add:
+
+Our Story
+
+Mission
+
+Vision
+
+Core Values
+
+Leadership Team
+
+Technology Expertise
+
+Industry Expertise
+
+Delivery Philosophy
+
+Timeline Journey
+
+==================================================
+PHASE 4
+PRODUCT PAGES
+=============
+
+Products currently feel like feature lists.
+
+Transform each product into:
+
+Overview
+
+Business Problem
+
+Solution
+
+Business Benefits
+
+Capabilities
+
+Target Customers
+
+Architecture Highlights
+
+Deployment Model
+
+Request Demo CTA
+
+==================================================
+PHASE 5
+SERVICES PAGE
+=============
+
+Create enterprise-grade service descriptions.
+
+Enterprise Architecture
+
+Cloud Modernization
+
+AI Consulting
+
+Knowledge Platforms
+
+Platform Engineering
+
+DevOps Transformation
+
+Digital Engineering
+
+Data & Analytics
+
+Each service should include:
+
+Challenges
+
+Approach
+
+Outcomes
+
+==================================================
+PHASE 6
+VISUAL REFINEMENT
+=================
+
+Improve visual hierarchy dramatically.
+
+Requirements:
+
+Larger headings
+
+More whitespace
+
+Executive layouts
+
+Alternating background sections
+
+Premium cards
+
+Subtle borders
+
+Architectural grid layouts
+
+Professional iconography
+
+Consistent spacing scale
+
+No flashy animations
+
+No startup-style gradients
+
+No bright colors
+
+==================================================
+PHASE 7
+FOOTER
+======
+
+Create enterprise footer.
+
+Products
+
+Services
+
+Industries
+
+Company
+
+Insights
+
+Contact
+
+Privacy Policy
+
+Terms of Use
+
+LinkedIn
+
+Copyright
+
+==================================================
+PHASE 8
+CONTENT QUALITY
+===============
+
+Remove all generic consulting buzzwords.
+
+Every section must contain meaningful enterprise-focused content.
+
+Avoid phrases like:
+
+"We deliver innovation."
+
+"We empower businesses."
+
+"Transform your future."
+
+Replace with concrete value statements.
+
+==================================================
+PHASE 9
+FINAL GOAL
+==========
+
+The finished website should make a CIO, CTO, Government Technology Leader, Enterprise Architect, or Product Executive believe they are engaging with a mature enterprise technology organization rather than a small consulting startup.
+
+Do not generate placeholders.
+
+Do not generate lorem ipsum.
+
+Produce production-ready content and UI improvements.
