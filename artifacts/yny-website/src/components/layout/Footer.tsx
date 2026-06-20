@@ -1,6 +1,6 @@
 import { Link } from "wouter";
 import { Linkedin } from "lucide-react";
-import logoSrc from "@assets/IntegratedYnYIcon_1781898348747.jpeg";
+import logoSrc from "/yny-logo.png";
 
 export function Footer() {
   return (

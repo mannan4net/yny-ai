@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "wouter";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logoSrc from "@assets/IntegratedYnYIcon_1781898348747.jpeg";
+import logoSrc from "/yny-logo.png";
 
 export function Navbar() {
   const [location] = useLocation();
